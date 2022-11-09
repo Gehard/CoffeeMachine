@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -28,6 +29,22 @@
             <option value="$PROJECT_DIR$/Topics/Extension functions/Overriding extension function" />
             <option value="$PROJECT_DIR$/Topics/Extension functions/Overriding member function" />
             <option value="$PROJECT_DIR$/Topics/Extension functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Application as a class" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Bugs in a vinyl store" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Car" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Facts about member functions" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Keyword to declare a member function" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Operations" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Volume of a cube" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Bottles fix" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Fake candidate" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Fix bugs" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Keywords" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Override forget" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Override the candidate" />
+            <option value="$PROJECT_DIR$/Topics/Overriding functions/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

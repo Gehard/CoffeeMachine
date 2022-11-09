@@ -1,11 +1,24 @@
 package machine
 
 fun main() {
-    println("Starting to make a coffee")
-    println("Grinding coffee beans")
-    println("Boiling water")
-    println("Mixing boiled water with crushed coffee beans")
-    println("Pouring coffee into the cup")
-    println("Pouring some milk into the cup")
-    println("Coffee is ready!")
+    println("Write how many ml of water the coffee machine has:")
+    val water = readln().toInt()
+
+    println("Write how many ml of milk the coffee machine has:")
+    val milk = readln().toInt()
+
+    println("Write how many grams of coffee beans the coffee machine has:")
+    val coffeeBeans = readln().toInt()
+
+    println("Write how many cups of coffee you will need:")
+    val cups = readln().toInt()
+
+    val maxCups = minOf(water/200, milk/50, coffeeBeans/15)
+
+    when {
+        maxCups > cups -> println("Yes, I can make that amount of coffee (and even ${maxCups - cups} more than that)")
+        maxCups < cups -> println("No, I can make only $maxCups cups of coffee")
+        else -> println("Yes, I can make that amount of coffee")
+    }
+
 }
