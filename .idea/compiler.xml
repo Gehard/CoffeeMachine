@@ -45,6 +45,14 @@
       <module name="Coffee_Machine.Topics-Overriding_functions-Override_forget.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Override_the_candidate.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps_in_use-Aaaaaaa_to_a.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps_in_use-Find_the_difference.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps_in_use-Limit.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps_in_use-Removing_chords.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps_in_use-Sike,_that's_the_wrong_number.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps_in_use-Splitting_with_spaces.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps_in_use-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps_in_use-Web_colors.main" target="11" />
       <module name="Coffee_Machine.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
