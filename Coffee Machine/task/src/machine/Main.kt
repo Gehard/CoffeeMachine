@@ -85,7 +85,7 @@ fun main() {
 
     while (true) {
         print("Write action (buy, fill, take, remaining, exit): ")
-        when (readLine()!!) {
+        when (readln()) {
             "buy" -> coffeeMachine.buy()
             "fill" -> coffeeMachine.fill()
             "take" -> coffeeMachine.take()

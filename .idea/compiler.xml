@@ -10,6 +10,14 @@
       <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="11" />
       <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="11" />
       <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Delegate-A_delegate_from_within.main" target="11" />
+      <module name="Coffee_Machine.Topics-Delegate-A_different_formatter.main" target="11" />
+      <module name="Coffee_Machine.Topics-Delegate-And..._what_is_the_delegate_used_to_do.main" target="11" />
+      <module name="Coffee_Machine.Topics-Delegate-Attaching_a_counting_delegate_on_one,_two..._go.main" target="11" />
+      <module name="Coffee_Machine.Topics-Delegate-Choosing_the_right_delegate,_with_a_bit_of_arithmetics_mixed_in.main" target="11" />
+      <module name="Coffee_Machine.Topics-Delegate-Double_trouble.main" target="11" />
+      <module name="Coffee_Machine.Topics-Delegate-Hello,_Delegate.main" target="11" />
+      <module name="Coffee_Machine.Topics-Delegate-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Extension_functions-Declare_an_extension_function.main" target="11" />
       <module name="Coffee_Machine.Topics-Extension_functions-Definition.main" target="11" />
       <module name="Coffee_Machine.Topics-Extension_functions-Delegation.main" target="11" />
