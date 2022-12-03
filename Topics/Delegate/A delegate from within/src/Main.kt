@@ -20,19 +20,18 @@ class Logger : ILogHolder {
 // Do not change the code above
 
 // Introduce the delegate here, following the argument declaration
-class ErrorHandler(base: ILogHolder): ILogHolder by base
-{
-    private var errorMessage: String = ""
+
+class ErrorHandler(base: ILogHolder) : ILogHolder by base { // Your code here
+    var errorMessage: String = ""
     fun getErrorMessage(msg: String) {
         errorMessage = msg
         logErrorMessage()
     }
 
+    // Your code here
     private fun logErrorMessage() {
         collectLog(errorMessage)
     }
-
-
 }
 
 fun doSomething(handler: ErrorHandler) {

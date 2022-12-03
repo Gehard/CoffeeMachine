@@ -46,6 +46,16 @@
       <module name="Coffee_Machine.Topics-Member_functions-Patient_needs_a_doctor.main" target="11" />
       <module name="Coffee_Machine.Topics-Member_functions-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Member_functions-Volume_of_a_cube.main" target="11" />
+      <module name="Coffee_Machine.Topics-Mutable_Map-About_Mutable_Map.main" target="11" />
+      <module name="Coffee_Machine.Topics-Mutable_Map-Add_an_element.main" target="11" />
+      <module name="Coffee_Machine.Topics-Mutable_Map-Exam_marks.main" target="11" />
+      <module name="Coffee_Machine.Topics-Mutable_Map-Help_the_robot.main" target="11" />
+      <module name="Coffee_Machine.Topics-Mutable_Map-New_user.main" target="11" />
+      <module name="Coffee_Machine.Topics-Mutable_Map-Remove_an_element.main" target="11" />
+      <module name="Coffee_Machine.Topics-Mutable_Map-Removing.main" target="11" />
+      <module name="Coffee_Machine.Topics-Mutable_Map-The_output_is.main" target="11" />
+      <module name="Coffee_Machine.Topics-Mutable_Map-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Mutable_Map-Wish_list.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Bottles_fix.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Fake_candidate.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Fix_bugs.main" target="11" />
