@@ -37,6 +37,10 @@
       <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-NumberFormat.main" target="11" />
       <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-RuntimeException.main" target="11" />
       <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Lazy_initialization-Cat.main" target="11" />
+      <module name="Coffee_Machine.Topics-Lazy_initialization-Initialized.main" target="11" />
+      <module name="Coffee_Machine.Topics-Lazy_initialization-The_meaning_of_lazy_initialization.main" target="11" />
+      <module name="Coffee_Machine.Topics-Lazy_initialization-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Member_functions-Application_as_a_class.main" target="11" />
       <module name="Coffee_Machine.Topics-Member_functions-Bugs_in_a_vinyl_store.main" target="11" />
       <module name="Coffee_Machine.Topics-Member_functions-Car.main" target="11" />

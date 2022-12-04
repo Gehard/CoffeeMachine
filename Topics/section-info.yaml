@@ -6,3 +6,4 @@ content:
 - Regexps in use
 - Delegate
 - Mutable Map
+- Lazy initialization
