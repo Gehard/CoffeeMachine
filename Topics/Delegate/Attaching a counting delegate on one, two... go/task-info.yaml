@@ -46,5 +46,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/21415#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 06 Dec 2022 11:23:43 UTC
 record: -1
