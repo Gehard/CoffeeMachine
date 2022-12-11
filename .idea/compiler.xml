@@ -67,6 +67,15 @@
       <module name="Coffee_Machine.Topics-Overriding_functions-Override_forget.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Override_the_candidate.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps-Backslash_problem.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps-Can_you.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps-Creating_regexes.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps-Different_colo_u_rs.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps-Escapism.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps-Help_the_teacher.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps-Matching_pattern.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps-Rings_of_Power.main" target="11" />
+      <module name="Coffee_Machine.Topics-Regexps-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps_in_use-Aaaaaaa_to_a.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps_in_use-Find_the_difference.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps_in_use-Limit.main" target="11" />
