@@ -37,6 +37,24 @@
       <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-NumberFormat.main" target="11" />
       <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-RuntimeException.main" target="11" />
       <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Apple_pie.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Declaring_Long.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Desks.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Good_rest_on_vacation.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-How_many_nuts_will_be_left_after_division.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Integer division.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Next_even_number.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Reversing_a_number.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-The_last_digit_of_a_number.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-The_number_of_tens.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-The_sum_of_digits.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Time_difference.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Time_format.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Underscore.main" target="11" />
+      <module name="Coffee_Machine.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-Cat.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-Initialized.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-The_meaning_of_lazy_initialization.main" target="11" />
