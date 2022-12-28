@@ -102,6 +102,16 @@
       <module name="Coffee_Machine.Topics-Regexps_in_use-Splitting_with_spaces.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps_in_use-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps_in_use-Web_colors.main" target="11" />
+      <module name="Coffee_Machine.Topics-Set-Combination.main" target="11" />
+      <module name="Coffee_Machine.Topics-Set-Conversion.main" target="11" />
+      <module name="Coffee_Machine.Topics-Set-Element_problem.main" target="11" />
+      <module name="Coffee_Machine.Topics-Set-Elementary.main" target="11" />
+      <module name="Coffee_Machine.Topics-Set-First_things_first.main" target="11" />
+      <module name="Coffee_Machine.Topics-Set-Non-empty_set.main" target="11" />
+      <module name="Coffee_Machine.Topics-Set-Subtraction.main" target="11" />
+      <module name="Coffee_Machine.Topics-Set-The_truth_is.main" target="11" />
+      <module name="Coffee_Machine.Topics-Set-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Set-Two_sides_of_the_same.main" target="11" />
       <module name="Coffee_Machine.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
