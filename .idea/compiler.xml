@@ -55,6 +55,15 @@
       <module name="Coffee_Machine.Topics-Integers_in_action-Time_format.main" target="11" />
       <module name="Coffee_Machine.Topics-Integers_in_action-Underscore.main" target="11" />
       <module name="Coffee_Machine.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-A_few_keywords.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Comprehension.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Fixing_an_interface_implementation.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Implementing_an_interface.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Inside_an_interface.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Interesting_details_of_interfaces.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Interfaces_and_OOP.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Let's_look_at_few_examples.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-Cat.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-Initialized.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-The_meaning_of_lazy_initialization.main" target="11" />
