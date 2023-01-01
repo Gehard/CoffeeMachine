@@ -94,6 +94,16 @@
       <module name="Coffee_Machine.Topics-Overriding_functions-Override_forget.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Override_the_candidate.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Always_win_the_dice_game.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Predictable__random__password.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Predictable_sequence.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Pseudorandomness.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Random_generator_seed.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Roll_the_dice.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-SumIterator.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Temperature_generator.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-The_Rock-Paper-Scissors_game.main" target="11" />
+      <module name="Coffee_Machine.Topics-Random-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps-Backslash_problem.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps-Can_you.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps-Creating_regexes.main" target="11" />
