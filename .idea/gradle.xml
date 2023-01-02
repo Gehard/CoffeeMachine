@@ -140,6 +140,14 @@
             <option value="$PROJECT_DIR$/Topics/Set/The truth is" />
             <option value="$PROJECT_DIR$/Topics/Set/Theory" />
             <option value="$PROJECT_DIR$/Topics/Set/Two sides of the same" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Addition and multiplication" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Appending numbers to strings" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Concatenation" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Fix it" />
+            <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
+            <option value="$PROJECT_DIR$/Topics/String basics/The string size" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

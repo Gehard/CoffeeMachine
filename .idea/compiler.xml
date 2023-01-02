@@ -131,6 +131,14 @@
       <module name="Coffee_Machine.Topics-Set-The_truth_is.main" target="11" />
       <module name="Coffee_Machine.Topics-Set-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Set-Two_sides_of_the_same.main" target="11" />
+      <module name="Coffee_Machine.Topics-String_basics-Addition_and_multiplication.main" target="11" />
+      <module name="Coffee_Machine.Topics-String_basics-Appending_numbers_to_strings.main" target="11" />
+      <module name="Coffee_Machine.Topics-String_basics-Concatenation.main" target="11" />
+      <module name="Coffee_Machine.Topics-String_basics-Correct_ways_to_create_a_string.main" target="11" />
+      <module name="Coffee_Machine.Topics-String_basics-Fix_it.main" target="11" />
+      <module name="Coffee_Machine.Topics-String_basics-JSON.main" target="11" />
+      <module name="Coffee_Machine.Topics-String_basics-The_string_size.main" target="11" />
+      <module name="Coffee_Machine.Topics-String_basics-Theory.main" target="11" />
       <module name="Coffee_Machine.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
