@@ -1,1 +1,2 @@
-val name = "10 years ago we were in London"
+@SuppressWarnings("all")
+const val name = "10 years ago we were in London"
