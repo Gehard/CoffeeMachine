@@ -45,6 +45,12 @@
       <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-NumberFormat.main" target="11" />
       <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-RuntimeException.main" target="11" />
       <module name="Coffee_Machine.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_colors-Alpha_Channel.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_colors-BufferedImage_functions.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_colors-Coordinate_system.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_colors-Print_color.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_colors-RGB_color.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_colors-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Integers_in_action-Apple_pie.main" target="11" />
       <module name="Coffee_Machine.Topics-Integers_in_action-Declaring_Long.main" target="11" />
       <module name="Coffee_Machine.Topics-Integers_in_action-Desks.main" target="11" />
