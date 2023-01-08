@@ -118,6 +118,15 @@
       <module name="Coffee_Machine.Topics-Random-Temperature_generator.main" target="11" />
       <module name="Coffee_Machine.Topics-Random-The_Rock-Paper-Scissors_game.main" target="11" />
       <module name="Coffee_Machine.Topics-Random-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Ranges-Between_two_numbers.main" target="11" />
+      <module name="Coffee_Machine.Topics-Ranges-Check_the_value.main" target="11" />
+      <module name="Coffee_Machine.Topics-Ranges-Correct_statements.main" target="11" />
+      <module name="Coffee_Machine.Topics-Ranges-How_to_create_a_range.main" target="11" />
+      <module name="Coffee_Machine.Topics-Ranges-Job.main" target="11" />
+      <module name="Coffee_Machine.Topics-Ranges-Not_in_range.main" target="11" />
+      <module name="Coffee_Machine.Topics-Ranges-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Ranges-Within_both_ranges.main" target="11" />
+      <module name="Coffee_Machine.Topics-Ranges-Working_hours.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps-Backslash_problem.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps-Can_you.main" target="11" />
       <module name="Coffee_Machine.Topics-Regexps-Creating_regexes.main" target="11" />
