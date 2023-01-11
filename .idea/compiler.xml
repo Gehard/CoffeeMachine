@@ -108,6 +108,14 @@
       <module name="Coffee_Machine.Topics-Overriding_functions-Override_forget.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Override_the_candidate.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-City_population.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Correct_overriding.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Facts_about_setters.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Field_access.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Implement_a_class.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Mutable_state.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Property_syntax.main" target="11" />
+      <module name="Coffee_Machine.Topics-Property_accessors-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Random-Always_win_the_dice_game.main" target="11" />
       <module name="Coffee_Machine.Topics-Random-Predictable__random__password.main" target="11" />
       <module name="Coffee_Machine.Topics-Random-Predictable_sequence.main" target="11" />
