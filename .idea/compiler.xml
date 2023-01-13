@@ -78,6 +78,14 @@
       <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Interfaces_and_OOP.main" target="11" />
       <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Let's_look_at_few_examples.main" target="11" />
       <module name="Coffee_Machine.Topics-Introduction_to_Interfaces-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterators-Bizzare_things.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterators-Buy_sweets_with_an_iterator.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterators-Comprehension.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterators-Frequency_word_book.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterators-Roller_coasters.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterators-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterators-What_is_an_iterator.main" target="11" />
+      <module name="Coffee_Machine.Topics-Iterators-Working_with_mutable_iterators.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-Cat.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-Initialized.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-The_meaning_of_lazy_initialization.main" target="11" />
