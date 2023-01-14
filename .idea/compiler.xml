@@ -51,6 +51,15 @@
       <module name="Coffee_Machine.Topics-Image_colors-Print_color.main" target="11" />
       <module name="Coffee_Machine.Topics-Image_colors-RGB_color.main" target="11" />
       <module name="Coffee_Machine.Topics-Image_colors-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_libraries-Color_encoding.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_libraries-Drawing_a_polygon.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_libraries-Drawing_a_red_square.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_libraries-Drawing_four_circles.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_libraries-Drawing_three_strings.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_libraries-Drawing_two_lines.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_libraries-Raster_Images.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_libraries-Representing_images_in_Kotlin.main" target="11" />
+      <module name="Coffee_Machine.Topics-Image_libraries-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Integers_in_action-Apple_pie.main" target="11" />
       <module name="Coffee_Machine.Topics-Integers_in_action-Declaring_Long.main" target="11" />
       <module name="Coffee_Machine.Topics-Integers_in_action-Desks.main" target="11" />
