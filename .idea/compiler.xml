@@ -99,6 +99,17 @@
       <module name="Coffee_Machine.Topics-Lazy_initialization-Initialized.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-The_meaning_of_lazy_initialization.main" target="11" />
       <module name="Coffee_Machine.Topics-Lazy_initialization-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-Creation_of_Map_Entry.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-FizzBuzz.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-Is_there_a_key.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-Map_creation.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-Map_has_elements.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-Map_with_buildMap.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-Products_in_store.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-Strings_to_Map.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-Sum_of_values.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-The_truth_is.main" target="11" />
+      <module name="Coffee_Machine.Topics-Map-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Member_functions-Application_as_a_class.main" target="11" />
       <module name="Coffee_Machine.Topics-Member_functions-Bugs_in_a_vinyl_store.main" target="11" />
       <module name="Coffee_Machine.Topics-Member_functions-Car.main" target="11" />
