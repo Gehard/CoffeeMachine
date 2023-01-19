@@ -1,0 +1,16 @@
+type: code
+custom_name: Null or min?
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // Write your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23982#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 19 Jan 2023 06:50:40 UTC
+record: -1

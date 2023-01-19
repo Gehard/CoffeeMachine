@@ -1,0 +1,1 @@
+fun main() = print(readln().split(' ').filter { it.first() in 'a'..'l' }.minOfOrNull { it })

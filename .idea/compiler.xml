@@ -129,6 +129,12 @@
       <module name="Coffee_Machine.Topics-Mutable_Map-The_output_is.main" target="11" />
       <module name="Coffee_Machine.Topics-Mutable_Map-Theory.main" target="11" />
       <module name="Coffee_Machine.Topics-Mutable_Map-Wish_list.main" target="11" />
+      <module name="Coffee_Machine.Topics-Null_and_collections-Find_the_element.main" target="11" />
+      <module name="Coffee_Machine.Topics-Null_and_collections-How_is_it_created.main" target="11" />
+      <module name="Coffee_Machine.Topics-Null_and_collections-Min,_first,_or_null.main" target="11" />
+      <module name="Coffee_Machine.Topics-Null_and_collections-Null_or_min.main" target="11" />
+      <module name="Coffee_Machine.Topics-Null_and_collections-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Null_and_collections-True,_false,_or_null.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Bottles_fix.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Fake_candidate.main" target="11" />
       <module name="Coffee_Machine.Topics-Overriding_functions-Fix_bugs.main" target="11" />
